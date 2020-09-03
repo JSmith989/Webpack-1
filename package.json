@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "Webpack-Module-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "to learn how to webpack",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
